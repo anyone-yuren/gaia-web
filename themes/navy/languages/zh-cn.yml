@@ -1,0 +1,41 @@
+menu:
+  docs: 文档
+  api: API 
+  news: 前端新闻
+  plugins: 插件
+  themes: 主题
+  search: 搜索
+
+index:
+  get_started: 开始使用
+
+page:
+  contents: 目录
+  back_to_top: 回到顶部
+  improve: 改进本文（暂不开放，github还没建起来）
+  prev: 上一页
+  next: 下一页
+  last_updated: 上次更新：%s
+
+sidebar:
+  docs:
+    getting_started: 开始使用
+    overview: 概述
+    common: 项目结构介绍
+    installation: 安装
+    first: 开始
+    first_js: 模块js编写
+    senior: 模块的高级写法
+    issues: 常见问题
+    html: HTML 规范
+    html_code: 代码规范
+    html_note: 文件模板规范
+    js: JS 规范
+    js_language: 语言规范
+    js_code: 模板规范
+    js_start: 继承
+    js_single: 单例使用
+    plugin: 插件规范
+    plugin_name: 插件命名规范
+    plugin_templet: 插件模板规范
+

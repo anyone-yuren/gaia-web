@@ -1,0 +1,20 @@
+docs:
+  getting_started:
+    overview: index.html
+    common: common.html
+    installation: guide/installation.html
+    first: guide/first.html
+    first_js: guide/first_js.html
+    senior: guide/senior.html
+    issues: issues.html
+  html:
+    html_code: html/code.html
+    html_note: html/note.html
+  js:
+    js_language: js/language.html
+    js_code: js/code.html
+    js_start: js/start.html
+    js_single: js/single.html
+  plugin:
+    plugin_name: plugin/name.html
+    plugin_templet: plugin/templet.html
