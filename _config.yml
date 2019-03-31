@@ -4,7 +4,7 @@ description: "Best Coding Guidelines For Front-End Developer."
 author: 慧政通-NYG
 language: zh-cn
 timezone: UTC
-url: http://192.168.169.57/ue/code/public/
+url: https://niyg.github.io/gaia-web-doc/public/
 root: /public/
 permalink: news/:year/:month/:day/:title/
 archive_dir: news 

@@ -5,9 +5,9 @@
   <subtitle>行政审批平台前端开发手册</subtitle>
   <link href="/public/atom.xml" rel="self"/>
   
-  <link href="http://192.168.169.57/ue/code/public/"/>
+  <link href="https://niyg.github.io/gaia-web-doc/public/"/>
   <updated>2019-01-28T08:19:00.937Z</updated>
-  <id>http://192.168.169.57/ue/code/public/</id>
+  <id>https://niyg.github.io/gaia-web-doc/public/</id>
   
   <author>
     <name>慧政通-NYG</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>第一篇文章</title>
-    <link href="http://192.168.169.57/ue/code/public/news/2019/01/28/first-code/"/>
-    <id>http://192.168.169.57/ue/code/public/news/2019/01/28/first-code/</id>
+    <link href="https://niyg.github.io/gaia-web-doc/public/news/2019/01/28/first-code/"/>
+    <id>https://niyg.github.io/gaia-web-doc/public/news/2019/01/28/first-code/</id>
     <published>2019-01-28T00:00:00.000Z</published>
     <updated>2019-01-28T08:19:00.937Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>V1.0.0 Beta Released</title>
-    <link href="http://192.168.169.57/ue/code/public/news/2015/11/15/beta-released/"/>
-    <id>http://192.168.169.57/ue/code/public/news/2015/11/15/beta-released/</id>
+    <link href="https://niyg.github.io/gaia-web-doc/public/news/2015/11/15/beta-released/"/>
+    <id>https://niyg.github.io/gaia-web-doc/public/news/2015/11/15/beta-released/</id>
     <published>2015-11-15T00:00:00.000Z</published>
     <updated>2018-06-04T09:34:33.000Z</updated>
     
@@ -63,8 +63,8 @@
   
   <entry>
     <title>V1.0.0 Preview (预览版)</title>
-    <link href="http://192.168.169.57/ue/code/public/news/2015/11/13/first-released/"/>
-    <id>http://192.168.169.57/ue/code/public/news/2015/11/13/first-released/</id>
+    <link href="https://niyg.github.io/gaia-web-doc/public/news/2015/11/13/first-released/"/>
+    <id>https://niyg.github.io/gaia-web-doc/public/news/2015/11/13/first-released/</id>
     <published>2015-11-13T00:00:00.000Z</published>
     <updated>2018-06-04T09:34:33.000Z</updated>
     
