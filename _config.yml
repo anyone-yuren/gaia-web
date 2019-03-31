@@ -16,7 +16,7 @@ highlight:
   line_number: false
 per_page: 0
 
-theme: navy
+theme: jekyll-theme-time-machine
 # deploy:
 #   type: git
 #   repo: git@github.com:o2team/guide.git
